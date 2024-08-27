@@ -1,6 +1,6 @@
 👋 Hello World! I'm Bahat Limitho Edrine
 
-📚 BIST Student at Makerere University
+📚 Student at Makerere University
 🚀 Passionate about Software Development
 
 🌐 Web Development Enthusiast:
