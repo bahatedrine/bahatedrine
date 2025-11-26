@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! I'm Bahat Limitho Edrine<br><br>📚 Student at Makerere University 🚀 Passionate about Software Development<br><br>🌐 Web Development Enthusiast:<br><br>Languages: PHP, JavaScript, Java, Python, HTML, CSS<br>Crafting web experiences one line of code at a time<br>🎵 Music Lover:<br><br>Jamming on the Guitar 🎸 and Piano 🎹 in my free time<br>Finding harmony in both code and music<br>💻 Open Source Advocate:<br><br>Contributing to the digital open world<br>Building and sharing projects that make a difference<br>🌟 Let's connect and code together! 🚀<br><br>📫 Reach me: Email: edrinebahat@icloud.com<br><br>Code | Music | Coffee ☕ | video games
+👋 Hello World! I'm Bahat Limitho Edrine<br><br>📚 Student at Makerere University <br><br>🌐 Web Development Enthusiast:<br><br>Languages: PHP, JavaScript, Java, Python, HTML, CSS<br>Crafting web experiences one line of code at a time<br>🎵 Music Lover:<br><br>Jamming on the Guitar 🎸 and Piano 🎹 in my free time<br>Finding harmony in both code and music<br>💻 Open Source Advocate:<br><br>Contributing to the digital open world<br>Building and sharing projects that make a difference<br>🌟 Let's connect and code together! 🚀<br><br>📫 Reach me: Email: edrinebahat@icloud.com<br><br>Code | Music | Coffee ☕ | video games
 
 
 ## 🌐 Socials:
